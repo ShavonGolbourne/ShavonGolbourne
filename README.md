@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShavonGolbourne
 - 👀 I’m interested in DATA SCIENCE 
-- 🌱 I’m currently learning PHP, MACHINE LEARNING
+- 🌱 I currently specialize in creating web and desktop applications.
 - 💞️ I’m looking to collaborate on OPEN SOURCE EDUCATIONAL PROJECTS
 - 📫 How to reach me SHAVON.SG@GMAIL.COM
 
